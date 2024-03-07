@@ -6,6 +6,7 @@
   "scripts": {
     "test": "cypress run"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wlsf82/cypress-intermediario-v2.git"
